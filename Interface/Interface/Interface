@@ -1,0 +1,10 @@
+Interface In1{
+    public state final int a = 100;
+}
+
+
+public class interface11 implement In1{   
+public class void main(String[] args){
+    System.out.println("Interface Variable : "+In1.a)
+}
+}
